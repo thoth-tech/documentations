@@ -1,3 +1,5 @@
+# DEPRECATED REPOSITORY - USE https://github.com/thoth-tech/documentation
+
 # Documentation
 
 [![CI](https://github.com/thoth-tech/documentation/actions/workflows/ci.yml/badge.svg)](https://github.com/thoth-tech/documentation/actions/workflows/ci.yml)
